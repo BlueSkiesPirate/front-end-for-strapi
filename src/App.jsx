@@ -1,10 +1,10 @@
 import { useState } from 'react'
 import { Routes, Route, Link } from "react-router-dom";
-import LandingPage from "./pages/landingPage"
+import LandingPage from "./pages/landingPage";
 import './index.css';
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
